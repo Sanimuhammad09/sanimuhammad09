@@ -1,4 +1,6 @@
 ### Hi there 👋
+![Screenshot from 2023-03-08 09-34-37](https://github.com/Sanimuhammad09/sanimuhammad09/assets/68894034/b2a316f8-e3e7-4863-8e3b-1a368be40a90)
+
 - 🔭 I'm a graduate of pure and applied mathematics, Federal University of technology Minna, Niger State.
 - 🔭 I'm currently a student of Qwasar Silicon valley, in California.
 - 🔭 I’m currently working on ...Raect projects
