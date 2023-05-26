@@ -1,4 +1,10 @@
 ### Hi there 👋
+- 🔭 I'm a graduate of pure and applied mathematics, Federal University of technology Minna, Niger State.
+- 🔭 I'm currently a student of Qwasar Silicon valley, in California.
+- 🔭 I’m currently working on ...Raect projects
+- 🌱 I’m currently learning ...Node js, Ruby on rails and Java
+- 👯 I’m looking to collaborate on ... Real life project
+
 
 <!--
 **Sanimuhammad09/sanimuhammad09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
