@@ -3,7 +3,7 @@
 
                                     ### Hi 👋 I'm Sani
                                     
-                                    A passionate Fullstack develo
+                                    A passionate Fullstack developer
 
 
 - 🔭 I'm a graduate of pure and applied mathematics, Federal University of technology Minna, Niger State.
